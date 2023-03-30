@@ -1,0 +1,21 @@
+{
+    "name": "saut-manurung/libhello",
+    "description": "Ini merupakan library uji coba",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SautManurung\\Libhello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sautmanurung1",
+            "email": "smanurung360@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
